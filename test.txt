@@ -1,0 +1,12 @@
+ Volume in drive C is System
+ Volume Serial Number is 3A57-5EA1
+
+ Directory of C:\Users\ASUS\Desktop\My Projects
+
+02-09-2020  21:33    <DIR>          .
+02-09-2020  21:33    <DIR>          ..
+02-09-2020  21:33                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  233,098,313,728 bytes free
+
+changes in text file
